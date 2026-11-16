@@ -20,8 +20,8 @@
 #include "faces.h"
 
 // ================== EDIT THESE ==================
-const char* WIFI_SSID   = "Karthik_2.4GHz";
-const char* WIFI_PASS   = "7386684615";
+const char* WIFI_SSID   = "YOURWIFI_NAME";
+const char* WIFI_PASS   = "WIFI_PASSWORD";
 const float LAT = 17.3850;          // your latitude  (Hyderabad)
 const float LON = 78.4867;          // your longitude
 const long  GMT_OFFSET_SEC = 19800; // India = +5:30
